@@ -167,7 +167,7 @@ Save the output of a command that lists the contents of the /boot directory to t
 
 I forgot to do the /boot argurment in the ls -l command causing me to fail.
 
-Went back into the server and properly exucuted the command.
+Went back into the server and properly executed the command.
 ![image](https://github.com/user-attachments/assets/5396d880-84d4-4296-b4b3-e0f33e587821)
 ![image](https://github.com/user-attachments/assets/334e199b-3e90-4fb9-ac5c-7446e76adac5)
 ![image](https://github.com/user-attachments/assets/b355f8be-7260-45d7-ae0b-d0be0169c2bf)
